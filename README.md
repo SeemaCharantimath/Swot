@@ -1,0 +1,2 @@
+# Swot
+Learning swot 
